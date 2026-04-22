@@ -9,7 +9,7 @@
 }
 
 :root {
-  --main-font: SpcGrtsk_reg;
+  --main-font: "monospace";
   --bold-font: SpcGrtsk_bld;
   --reg-font: "monospace";
   --sub-clr: #eceff4;
