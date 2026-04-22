@@ -8,10 +8,15 @@
   src: url("../public/fonts/SpaceGrotesk-Bold.ttf")
 }
 
+@font-face {
+  font-family: FiraCode;
+  src: url("../public/fonts/FiraCode-Regular.ttf")
+}
+
 :root {
-  --main-font: "monospace";
+  --main-font: SpcGrtsk_reg;
   --bold-font: SpcGrtsk_bld;
-  --reg-font: "monospace";
+  --reg-font: FiraCode;
   --sub-clr: #eceff4;
 
   /* LANDING PAGE */
