@@ -49,5 +49,5 @@ PRISMATIC will take the input strings and output:
 
 ### Disclaimer: Not intended for clinical use
 This project is intended for educational and research purposes only.
-This is not a medical tool and should not be used for clinical decision-making
+This is not a medical tool and should not be used for clinical decision-making.
 
