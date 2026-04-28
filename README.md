@@ -10,7 +10,7 @@ screening and repair
 PRISMATIC is a full-stack ML application allowing users to input genetic
 mutation data in the following form:
 
-**Chromosome Number**: integers 1-24 where Y = 23 and X = 24
+**Chromosome Number**: integers 1-24 where X = 23 and Y = 24
 
 **Reference Sequence (Original DNA Allele)** e.g. "ATCG"
 
